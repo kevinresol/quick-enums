@@ -1,14 +1,14 @@
 {
 	"name": "quick-enums",
+	"description": "Shorthand for string enums",
 	"classPath": "src",
 	"dependencies": {},
+	"url": "https://github.com/kevinresol/quick-enums",
 	"contributors": [
 		"kevinresol"
 	],
-	"description": "Shorthand for string enums",
-	"url": "https://github.com/kevinresol/quick-enums",
-	"version": "0.1.0",
-	"releasenote": "Initial release",
+	"version": "0.1.1",
+	"releasenote": "Add description and url",
 	"tags": [
 		"enum",
 		"generator"

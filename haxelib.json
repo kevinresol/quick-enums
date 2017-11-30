@@ -1,15 +1,15 @@
 {
-  "name": "quick-enums",
-  "license": "MIT",
-  "tags": [
-    "enum",
-    "generator"
-  ],
-  "classPath": "src",
-  "contributors": [
-    "kevinresol"
-  ],
-  "releasenote": "initial release",
-  "version": "0.0.0",
-  "dependencies": {}
+	"name": "quick-enums",
+	"classPath": "src",
+	"dependencies": {},
+	"contributors": [
+		"kevinresol"
+	],
+	"version": "0.1.0",
+	"releasenote": "Initial release",
+	"tags": [
+		"enum",
+		"generator"
+	],
+	"license": "MIT"
 }

@@ -10,7 +10,7 @@ var sizes:enums.Enums<'small', 'medium', 'large'>;
 
 Will generate this:
 
-```
+```haxe
 var sizes:Enum1;
 
 @:enum abstract Enum1(String) {

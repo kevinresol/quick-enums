@@ -8,7 +8,7 @@ Shorthand to represent string-enums. Useful for externs.
 var sizes:enums.Enums<'small', 'medium', 'large'>;
 ```
 
-Will generates this:
+Will generate this:
 
 ```
 var sizes:Enum1;

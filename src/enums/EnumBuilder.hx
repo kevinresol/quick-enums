@@ -22,7 +22,7 @@ class EnumBuilder {
 				var cacheKey = values.join(',');
 				if(!cache.exists(cacheKey)) {
 					var name = 'Enum_${counter++}';
-					var pack = ['react', 'native', 'component', 'props'];
+					var pack = ['enums'];
 					
 					Context.defineType({
 						name: name,

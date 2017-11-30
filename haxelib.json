@@ -5,6 +5,8 @@
 	"contributors": [
 		"kevinresol"
 	],
+	"description": "Shorthand for string enums",
+	"url": "https://github.com/kevinresol/quick-enums",
 	"version": "0.1.0",
 	"releasenote": "Initial release",
 	"tags": [

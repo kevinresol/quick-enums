@@ -1,6 +1,6 @@
 # Quick Enums for Haxe
 
-Shorthand to represent string-enums. Useful for externs.
+Shorthand to represent string-enums.
 
 ## Usage
 

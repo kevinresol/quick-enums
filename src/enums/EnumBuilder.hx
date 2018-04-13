@@ -27,7 +27,7 @@ class EnumBuilder {
 					Context.defineType({
 						name: name,
 						pack: pack,
-						kind: TDAbstract(macro:String, [], []),
+						kind: TDAbstract(macro:String, [], [macro:String]),
 						meta: [{name: ':enum', pos: pos}],
 						fields: values.map(function(v):Field return {
 							kind: FVar(null, macro $v{v}),
